@@ -33,7 +33,7 @@ What made me fall in love with web development and front-end is the capability t
 ![Javascript Logo](/images/javascript.svg)
 ![ReactJS Logo](/images/reactjs.svg)
 ![Bootstrap](/images/bootstrap.svg)
-![PHP Logo](/images/php.svg)
+![PHP Logo](/images/php-svgrepo-com.svg)
 ![Laravel Logo](/images/laravel.svg)
 ![Mysql](/images/mysql.svg)
 ![Mysql](/images/PhpMyAdmin-Logo.wine.svg)
