@@ -35,8 +35,9 @@ What made me fall in love with web development and front-end is the capability t
 ![Bootstrap](/images/bootstrap.svg)
 ![PHP Logo](/images/php-svgrepo-com.svg)
 ![Laravel Logo](/images/laravel.svg)
-![Mysql](/images/mysql.svg)
-![Mysql](/images/PhpMyAdmin-Logo.wine.svg)
+![Mysql Logo](/images/mysql.svg)
+![PhpMySql Logo](/images/PhpMyAdmin-Logo.wine.svg)
+![Git Logo](/images/icons8-git.svg)
 <!-- ![NextJS Logo](/images/nextjs.svg) -->
 <!-- ![Typescript Logo](/images/typescript.svg) -->
 <!-- ![React-Native Logo](/images/react-native.svg) -->
